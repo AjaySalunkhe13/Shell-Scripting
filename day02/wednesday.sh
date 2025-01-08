@@ -11,3 +11,5 @@ echo "You entered $username"
 sudo useradd -m $username
 sudo psswd $username
 echo "Your user is added"
+
+echo "Change done in github"
